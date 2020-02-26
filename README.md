@@ -10,7 +10,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-# Usage example
+## Usage example
 ```
 ./examples/print-depth.py
 ```
